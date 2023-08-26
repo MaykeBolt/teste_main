@@ -1,0 +1,2 @@
+Crie o repositorio, de o git clone, então joga os arquivos dentro do repositório e de o add, commit e push.
+Vai funcionar.
