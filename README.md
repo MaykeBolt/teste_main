@@ -15,3 +15,8 @@
 *Italic Text*
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Sussy
+<br>
+<br>
+__Note__
+<br>
+Why is complicated to color some text here?
