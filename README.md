@@ -7,6 +7,10 @@
 </details>
 
 <ins>Underlined Text</ins>
+\n
 **Bold Text**
+\n
 ***Bold Italic Text***
+\n
 *Italic Text*
+\n
