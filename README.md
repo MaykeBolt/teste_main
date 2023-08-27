@@ -5,3 +5,8 @@
  Sussy?
   Definitely Amogus
 </details>
+
+<ins>Underlined Text</ins>
+**Bold Text**
+***Bold Italic Text***
+*Italic Text*
