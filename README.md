@@ -1,2 +1,2 @@
 # teste_main
-\textcolor{blue}{Amogus}
+\textcolor{red}{easily} Sussy
