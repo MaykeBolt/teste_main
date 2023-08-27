@@ -21,4 +21,4 @@ __Note__
 <br>
 Why is complicated to color some text here?
 <br>
-$\color[RGB]{237,114,45} why is this text in this font?$
+$\color[RGB]{237,114,45} why\is\this\text\in\this\font?$
