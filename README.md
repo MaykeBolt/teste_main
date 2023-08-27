@@ -21,4 +21,4 @@ __Note__
 <br>
 Why is complicated to color some text here?
 <br>
-$\color[RGB]{155,127,0} hello$
+$\color[RGB]{237,114,45} hello$
