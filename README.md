@@ -1,2 +1,2 @@
 # teste_main
-\color{amogus}
+<font color="red">This text is red!</font>
