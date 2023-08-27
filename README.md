@@ -1,2 +1,2 @@
 # teste_main
-<font color="red">This text is red!</font>
+<kbd>p</kbd><kbd>a</kbd><kbd>i</kbd><kbd>n</kbd>
