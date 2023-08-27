@@ -1,2 +1,2 @@
 # teste_main
-\color(amogus)
+\color{amogus}
