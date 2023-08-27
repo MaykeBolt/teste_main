@@ -7,10 +7,11 @@
 </details>
 
 <ins>Underlined Text</ins>
-\n
+<br>
 **Bold Text**
-\n
+<br>
 ***Bold Italic Text***
-\n
+<br>
 *Italic Text*
-\n
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Sussy
