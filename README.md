@@ -1,2 +1,2 @@
 # teste_main
-\textcolor{red}{easily} Sussy
+\textcolor{<red>}{<easily>}
